@@ -1,8 +1,3 @@
-# <b><tt><i>SHEWON-MD-BOT</i></b></tt>
-2
-<br>
-
-
 <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
 
 # LUCIFER-MD-v4
@@ -17,7 +12,7 @@
  
  ## ```Donate Me```
 
-- [`wallpaper`](https://i.ibb.co/ydzY2yn/IMG-20220818-WA0043.jpg)
+  - [`wallpaper`](https://i.ibb.co/ydzY2yn/IMG-20220818-WA0043.jpg)
  </a>
 </p>
 <p align="center">
@@ -33,7 +28,22 @@
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
-
+<h1><b><i>SHEWON MULTI DEVICE BOT</i></b></h1>
+18
+  
+19
+<br>
+20
+<img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY SHEWON ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
+21
+<br><div algin="center"><img src=
+22
+      "https://profile-counter.glitch.me/CyberKing4/count.svg" /><br> 🔎 PROFILE VIWERS 🔍</div>
+23
+<p align="center">
+24
+<br>
+ 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gayan2003/LUCIFER-MD)
 
