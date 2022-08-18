@@ -1,11 +1,11 @@
 <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
 
-# ZIM BOT V4
+# LUCIFER-MD-v4
 
 ## ``` This Script is for Everyone Don't sell it at high price ```
 ## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtu.be/KNu-gr2h7bo)
 
-##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`DRIPS`](https://wa.me/+447441437150)
+##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`LUCIFER`](https://wa.me/+94758512807)
  WhatsApp with so Many features using multi device  [`BAILEYS`](https://github.com/adiwajshing/baileys)
  
  <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
@@ -19,9 +19,9 @@
 <img src="https://i.imgur.com/LbmTdhf.gif" alt="animated"  />
 </p>
 
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HiCr9f0PIIzGse0YfmphKi) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
-> A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
+> A Fully PRECIOUS COOL BOT BY LUCIFER MEMES <br>
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
