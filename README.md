@@ -12,7 +12,7 @@
  
  ## ```Donate Me```
 
-- [`Paypal`](https://www.paypal.me/luciferbotinc)
+- [`wallpaper`](https://i.ibb.co/ydzY2yn/IMG-20220818-WA0043.jpg)
  </a>
 </p>
 <p align="center">
