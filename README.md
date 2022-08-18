@@ -29,20 +29,6 @@
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
 <h1><b><i>LUCIFER MULTI DEVICE BOT</i></b></h1>
-18
-  
-19
-<br>
-20
-<img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY LUCIFER ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
-21
-<br><div algin="center"><img src=
-22
-      "https://profile-counter.glitch.me/gayan2003/count.svg" /><br> 🔎 PROFILE VIWERS 🔍</div>
-23
-<p align="center">
-24
-<br>
  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gayan2003/LUCIFER-MD)
